@@ -1,0 +1,82 @@
+/*
+    Estilos da pagina index.html
+*/
+
+
+.center {
+    text-align: center;
+}
+
+/*body {
+    background-image: url(https://a-static.besthdwallpaper.com/one-piece-going-merry-papel-pintado-8481_L.jpg);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}*/
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu li a:hover {
+    color: gray;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+ 
+.tm-social  {
+    width: 70px;
+    height: 60px;
+}
+
+.tm-50 {
+    width: 300px;
+    height: 300px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+/*
+    Estilos da pagina contato.html
+*/
+
+.ml-50 {
+    margin-left: 50px;
+}
+
+
+/*
+    Estilos da pagina mugiwaras.html
+*/
